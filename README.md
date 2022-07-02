@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @crmc1798 (César Martínez)
+- 👀 I’m interested in ... software development
+- 🌱 I’m currently learning ... html, css, js, python, sql
+- 💞️ I’m looking to collaborate on ...just my learning skills
+- 📫 How to reach me ...https://www.facebook.com/cesar.ricardoricardo/
